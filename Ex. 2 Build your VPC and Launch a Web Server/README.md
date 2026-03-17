@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Name**: Dinesh Kaethik R
+* **Name**: Dinesh Karthik R
 * **Register Number**: 212224230068
 * **Date of Submission**: 10-03-2026
 
